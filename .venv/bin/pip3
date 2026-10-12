@@ -1,4 +1,4 @@
-#!/home/icspero/Documents/lab01_AB320_Samoilov/.venv/bin/python3
+#!/home/icpero/Documents/7-semester-AI-Lab1/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
